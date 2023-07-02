@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1688259231 source:c:\users\danam\onedrive\documents\tp parcial\quinientos_parcial\quinientos.cpp
+	<iostream>
+	"rlutil.h"
+	<cstdlib>
+	<ctime>
+	<vector>
+
+1685415626 c:\users\danam\onedrive\documents\tp parcial\quinientos_parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
